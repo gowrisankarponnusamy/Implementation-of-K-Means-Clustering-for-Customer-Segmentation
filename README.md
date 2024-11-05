@@ -26,7 +26,7 @@ RegisterNumber: 212222230041
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
-data = pd.read_csv("C:/Users/LENOVO/Downloads/Mall_Customers.csv")
+data = pd.read_csv("Mall_Customers.csv")
 
 data.head()
 
